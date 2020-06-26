@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AngularFitnessPro.Interface/1.0.0": {
+        "dependencies": {
+          "AngularFitnessPro.Models": "1.0.0",
+          "AngularFitnessPro.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "AngularFitnessPro.Interface.dll": {}
+        }
+      },
+      "AngularFitnessPro.Models/1.0.0": {
+        "runtime": {
+          "AngularFitnessPro.Models.dll": {}
+        }
+      },
+      "AngularFitnessPro.ViewModels/1.0.0": {
+        "runtime": {
+          "AngularFitnessPro.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AngularFitnessPro.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngularFitnessPro.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngularFitnessPro.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

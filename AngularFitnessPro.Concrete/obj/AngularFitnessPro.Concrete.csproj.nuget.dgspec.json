@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Concrete\\AngularFitnessPro.Concrete.csproj": {}
+  },
+  "projects": {
+    "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Concrete\\AngularFitnessPro.Concrete.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Concrete\\AngularFitnessPro.Concrete.csproj",
+        "projectName": "AngularFitnessPro.Concrete",
+        "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Concrete\\AngularFitnessPro.Concrete.csproj",
+        "packagesPath": "C:\\Users\\anil\\.nuget\\packages\\",
+        "outputPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Concrete\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Interface\\AngularFitnessPro.Interface.csproj": {
+                "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Interface\\AngularFitnessPro.Interface.csproj"
+              },
+              "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj": {
+                "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj"
+              },
+              "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj": {
+                "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.8.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Interface\\AngularFitnessPro.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Interface\\AngularFitnessPro.Interface.csproj",
+        "projectName": "AngularFitnessPro.Interface",
+        "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Interface\\AngularFitnessPro.Interface.csproj",
+        "packagesPath": "C:\\Users\\anil\\.nuget\\packages\\",
+        "outputPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj": {
+                "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj"
+              },
+              "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj": {
+                "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj",
+        "projectName": "AngularFitnessPro.Models",
+        "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj",
+        "packagesPath": "C:\\Users\\anil\\.nuget\\packages\\",
+        "outputPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj",
+        "projectName": "AngularFitnessPro.ViewModels",
+        "projectPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\AngularFitnessPro.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\anil\\.nuget\\packages\\",
+        "outputPath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

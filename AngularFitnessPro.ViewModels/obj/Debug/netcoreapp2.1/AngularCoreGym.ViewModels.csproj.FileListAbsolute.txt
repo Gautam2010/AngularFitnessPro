@@ -1,0 +1,9 @@
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\bin\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.deps.json
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\bin\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\bin\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.pdb
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\obj\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.csproj.CoreCompileInputs.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\obj\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.AssemblyInfoInputs.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\obj\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.AssemblyInfo.cs
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\obj\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\obj\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.pdb
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.ViewModels\obj\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.csprojAssemblyReference.cache

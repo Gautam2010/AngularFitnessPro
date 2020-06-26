@@ -1,0 +1,43 @@
+
+6/26/2020 12:06:25 AM
+------------------------------------------------------------------------------------------------
+Controller Name :- RegisterMember
+Action Method Name :- Post
+------------------------------------------------------------------------------------------------
+Microsoft.AspNetCore.Mvc.Filters.ExceptionContext
+Message ---
+{0}
+Unmapped members were found. Review the types and members below.
+Add a custom mapping expression, ignore, add a custom resolver, or modify the source/destination type
+For no matching constructor, add a no-arg ctor, add optional arguments, or map all of the constructor parameters
+==================================================================================================
+AutoMapper created this type map for you, but your types cannot be mapped using the current configuration.
+MemberRegistrationViewModel -> MemberRegistration (Destination member list)
+AngularCoreGym.ViewModels.MemberRegistrationViewModel -> AngularCoreGym.Models.MemberRegistration (Destination member list)
+
+Unmapped properties:
+MemberNo
+Createdby
+ModifiedBy
+MemImagename
+MemImagePath
+MainMemberId
+
+Source ---
+{0}AutoMapper
+StackTrace ---
+{0}   at lambda_method(Closure , MemberRegistrationViewModel , MemberRegistration , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at AngularCoreGym.Controllers.RegisterMemberController.Post(MemberRegistrationViewModel member) in C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym\Controllers\RegisterMemberController.cs:line 77
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+TargetSite ---
+{0}Void AssertConfigurationIsValid(System.Collections.Generic.IEnumerable`1[AutoMapper.TypeMap])
+

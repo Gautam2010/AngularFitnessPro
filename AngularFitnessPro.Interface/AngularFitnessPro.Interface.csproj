@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AngularFitnessPro.Models\AngularFitnessPro.Models.csproj" />
+    <ProjectReference Include="..\AngularFitnessPro.ViewModels\AngularFitnessPro.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

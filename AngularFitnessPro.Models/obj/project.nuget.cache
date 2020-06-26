@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ba5PrybHq251+zXwePEa2Z58JzzKscdYVvxSlk5Vh8sin9Um61rT6EOrJs9B1u1OogL2XyuOEsVUelSNFDS6OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Anil\\Projects\\ASPNET-Core-Angular-7-Project-master\\ASPNET-Core-Angular-7-Project-master\\AngularFitnessPro\\AngularFitnessPro.Models\\AngularFitnessPro.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anil\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\anil\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\anil\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\anil\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\anil\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\anil\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\anil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

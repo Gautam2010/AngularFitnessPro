@@ -1,0 +1,14 @@
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.Interface.deps.json
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.Interface.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.Interface.pdb
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.Models.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.Models.pdb
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\bin\Debug\netcoreapp2.1\AngularCoreGym.ViewModels.pdb
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.csprojAssemblyReference.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.csproj.CoreCompileInputs.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.AssemblyInfoInputs.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.AssemblyInfo.cs
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.csproj.CopyComplete
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Interface\obj\Debug\netcoreapp2.1\AngularCoreGym.Interface.pdb

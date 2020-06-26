@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AngularCoreGym.ViewModels/1.0.0": {
+        "runtime": {
+          "AngularCoreGym.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AngularCoreGym.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

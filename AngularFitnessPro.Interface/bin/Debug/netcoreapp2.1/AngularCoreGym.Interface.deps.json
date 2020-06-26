@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AngularCoreGym.Interface/1.0.0": {
+        "dependencies": {
+          "AngularCoreGym.Models": "1.0.0",
+          "AngularCoreGym.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "AngularCoreGym.Interface.dll": {}
+        }
+      },
+      "AngularCoreGym.Models/1.0.0": {
+        "runtime": {
+          "AngularCoreGym.Models.dll": {}
+        }
+      },
+      "AngularCoreGym.ViewModels/1.0.0": {
+        "runtime": {
+          "AngularCoreGym.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AngularCoreGym.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngularCoreGym.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngularCoreGym.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

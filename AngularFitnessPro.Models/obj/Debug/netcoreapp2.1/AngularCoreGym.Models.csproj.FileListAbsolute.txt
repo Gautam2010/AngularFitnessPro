@@ -1,0 +1,8 @@
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\bin\Debug\netcoreapp2.1\AngularCoreGym.Models.deps.json
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\bin\Debug\netcoreapp2.1\AngularCoreGym.Models.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\bin\Debug\netcoreapp2.1\AngularCoreGym.Models.pdb
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\obj\Debug\netcoreapp2.1\AngularCoreGym.Models.csproj.CoreCompileInputs.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\obj\Debug\netcoreapp2.1\AngularCoreGym.Models.AssemblyInfoInputs.cache
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\obj\Debug\netcoreapp2.1\AngularCoreGym.Models.AssemblyInfo.cs
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\obj\Debug\netcoreapp2.1\AngularCoreGym.Models.dll
+C:\Anil\Projects\ASPNET-Core-Angular-7-Project-master\ASPNET-Core-Angular-7-Project-master\AngularCoreGym\AngularCoreGym.Models\obj\Debug\netcoreapp2.1\AngularCoreGym.Models.pdb
